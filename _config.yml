@@ -1,7 +1,7 @@
 name: Morgan Ervin
 favicon: null
-layout_spectrum: 0.43738576164469123
-typography_spectrum: 0.14747047354467213
+layout_spectrum: 0.88637
+typography_spectrum: 0.64161
 title: Morgan Ervin
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#06090e'
+    - '#fefefe'
+    - '#f4263c'
+    - '#b8bfc2'
+    - '#76706a'
   brandStrength: 0.8410373264923692
   lightness: 0.8824300626292825
   saturation: 0.18773981812410057
